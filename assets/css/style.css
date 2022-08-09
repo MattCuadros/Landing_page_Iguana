@@ -39,7 +39,8 @@ header h1 {
 }
 
 header div {
-  background-image: url(/assets/img/bg-header.jpg);
+  background-image: url(../img/bg-header.jpg);
+  background-color: #000;
   background-size: cover;
   background-repeat: no-repeat;
 }
