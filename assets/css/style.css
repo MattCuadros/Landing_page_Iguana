@@ -39,7 +39,7 @@ header h1 {
 }
 
 header div {
-  background-image: url(./assets/img/bg-header.jpg);
+  background-image: url(/assets/img/bg-header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
